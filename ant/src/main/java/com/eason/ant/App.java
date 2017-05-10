@@ -6,10 +6,6 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.List;
 
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
-import org.jsoup.select.Elements;
 import com.alibaba.fastjson.JSON;
 import com.eason.model.wy.KeyWords;
 import com.eason.model.wy.WY_NewsModel;
